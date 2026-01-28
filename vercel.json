@@ -1,0 +1,9 @@
+{
+  "redirects": [
+    {
+      "source": "/(.*)",
+      "destination": "https://bitgloe-landing.vercel.app/$1",
+      "permanent": true
+    }
+  ]
+}
